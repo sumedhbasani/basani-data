@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-31T13:02:45.118324+00:00",
-  "scan_time": "2026-05-31T13:02:45.118324+00:00",
+  "generated": "2026-05-31T17:38:27.302386+00:00",
+  "scan_time": "2026-05-31T17:38:27.302386+00:00",
   "items": [
     {
       "id": "scan-ORCL-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 ORCL +10.8% \u2014 $225.75  |  RSI overbought 74.8 \u00b7 Above SMA20 \u00b7 +10.8% today (strong)",
       "body": "RSI overbought 74.8 \u00b7 Above SMA20 \u00b7 +10.8% today (strong)",
       "url": "https://finance.yahoo.com/quote/ORCL",
@@ -20,7 +20,7 @@
     },
     {
       "id": "scan-PLTR-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 PLTR +9.1% \u2014 $156.35  |  Above SMA20 \u00b7 +9.1% today (strong) \u00b7 High volume breakout",
       "body": "Above SMA20 \u00b7 +9.1% today (strong) \u00b7 High volume breakout",
       "url": "https://finance.yahoo.com/quote/PLTR",
@@ -36,7 +36,7 @@
     },
     {
       "id": "scan-MSFT-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 MSFT +5.0% \u2014 $448.17  |  Above SMA20 \u00b7 +5.0% today (strong) \u00b7 High volume breakout",
       "body": "Above SMA20 \u00b7 +5.0% today (strong) \u00b7 High volume breakout",
       "url": "https://finance.yahoo.com/quote/MSFT",
@@ -52,7 +52,7 @@
     },
     {
       "id": "scan-INTC-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc9 INTC -4.7% \u2014 $115.17  |  RSI healthy 59.5 \u00b7 Below SMA20 \u00b7 -4.7% today (weak)",
       "body": "RSI healthy 59.5 \u00b7 Below SMA20 \u00b7 -4.7% today (weak)",
       "url": "https://finance.yahoo.com/quote/INTC",
@@ -68,7 +68,7 @@
     },
     {
       "id": "scan-MU-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 MU +4.5% \u2014 $965.21  |  RSI overbought 78.0 \u00b7 Above SMA20 \u00b7 +4.5% today (strong)",
       "body": "RSI overbought 78.0 \u00b7 Above SMA20 \u00b7 +4.5% today (strong)",
       "url": "https://finance.yahoo.com/quote/MU",
@@ -84,7 +84,7 @@
     },
     {
       "id": "scan-AVGO-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 AVGO +4.2% \u2014 $444.33  |  Above SMA20 \u00b7 +4.2% today (strong) \u00b7 High volume breakout",
       "body": "Above SMA20 \u00b7 +4.2% today (strong) \u00b7 High volume breakout",
       "url": "https://finance.yahoo.com/quote/AVGO",
@@ -100,7 +100,7 @@
     },
     {
       "id": "scan-COIN-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 COIN +3.7% \u2014 $189.01  |  RSI healthy 47.7 \u00b7 Below SMA20 \u00b7 +3.7% today (strong)",
       "body": "RSI healthy 47.7 \u00b7 Below SMA20 \u00b7 +3.7% today (strong)",
       "url": "https://finance.yahoo.com/quote/COIN",
@@ -116,7 +116,7 @@
     },
     {
       "id": "scan-QCOM-2026-05-31",
-      "timestamp": "2026-05-31T13:02:45.118324+00:00",
+      "timestamp": "2026-05-31T17:38:27.302386+00:00",
       "title": "\ud83d\udcc8 QCOM +3.4% \u2014 $251.56  |  RSI overbought 70.1 \u00b7 Above SMA20 \u00b7 +3.4% today (strong)",
       "body": "RSI overbought 70.1 \u00b7 Above SMA20 \u00b7 +3.4% today (strong)",
       "url": "https://finance.yahoo.com/quote/QCOM",
