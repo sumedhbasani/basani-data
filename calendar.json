@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T08:00:42.251378+00:00",
+  "generated": "2026-06-02T12:16:23.610740+00:00",
   "events": [
     {
       "type": "earnings",
@@ -722,6 +722,94 @@
     {
       "type": "earnings",
       "date": "2026-06-04",
+      "ticker": "CIEN",
+      "name": "CIENA",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "BF.A",
+      "name": "BROWN FORMAN",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "BF.B",
+      "name": "BROWN FORMAN",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "TTC",
+      "name": "TORO",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "XE",
+      "name": "X-Energy",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "CAL",
+      "name": "CALERES",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "CMCO",
+      "name": "COLUMBUS MCKINNON",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
+      "ticker": "OESX",
+      "name": "ORION ENERGY SYSTEMS",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-04",
       "ticker": "PL",
       "name": "PLANET LABS PBC",
       "time": "after-market",
@@ -900,6 +988,50 @@
       "importance": 4,
       "source": "unusual_whales",
       "color": "#c0392b"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-05",
+      "ticker": "ABM",
+      "name": "ABM INDUSTRIES",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-05",
+      "ticker": "GIII",
+      "name": "G III APPAREL GROUP",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-05",
+      "ticker": "HERE",
+      "name": "HERE GROUP LTD",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-05",
+      "ticker": "TOUR",
+      "name": "TUNIU",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
     },
     {
       "type": "economic",
@@ -1366,6 +1498,50 @@
       "ticker": "JILL",
       "name": "JJILL",
       "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
+      "ticker": "NAVN",
+      "name": "Navan",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
+      "ticker": "OXM",
+      "name": "OXFORD INDUSTRIES",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
+      "ticker": "SFIX",
+      "name": "STITCH FIX",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
+      "ticker": "MIND",
+      "name": "MIND TECHNOLOGY",
+      "time": "after-market",
       "eps_est": "",
       "rev_est": "",
       "source": "unusual_whales",
