@@ -1,12 +1,12 @@
 {
-  "scan_time": "2026-06-02 12:16:23",
-  "scan_label": "20260602_1216",
+  "scan_time": "2026-06-02 12:24:33",
+  "scan_label": "20260602_1224",
   "tickers": [
     {
       "ticker": "NVDA",
-      "price": 224.33,
+      "price": 226.95,
       "prev_close": 211.16,
-      "chg_pct": 6.24,
+      "chg_pct": 7.48,
       "high": 224.86,
       "low": 215.75,
       "volume": 6738901,
@@ -20,17 +20,17 @@
         "SMA50",
         "EMA_STACK",
         "RSI_53.9",
-        "MOM+6.24%"
+        "MOM+7.48%"
       ],
       "stop": 194.25,
-      "cons_target": 235.55,
-      "agg_target": 251.25
+      "cons_target": 238.3,
+      "agg_target": 254.18
     },
     {
       "ticker": "MU",
-      "price": 1038.1,
+      "price": 1045.32,
       "prev_close": 970.64,
-      "chg_pct": 6.95,
+      "chg_pct": 7.69,
       "high": 1046.81,
       "low": 1009.56,
       "volume": 739123,
@@ -44,11 +44,11 @@
         "SMA50",
         "EMA_STACK",
         "RSI_70.9",
-        "MOM+6.95%"
+        "MOM+7.69%"
       ],
       "stop": 552.28,
-      "cons_target": 1090.0,
-      "agg_target": 1162.67
+      "cons_target": 1097.59,
+      "agg_target": 1170.76
     },
     {
       "ticker": "CRM",
@@ -173,9 +173,9 @@
     },
     {
       "ticker": "SPY",
-      "price": 756.75,
+      "price": 757.37,
       "prev_close": 756.34,
-      "chg_pct": 0.05,
+      "chg_pct": 0.14,
       "high": 760.26,
       "low": 754.74,
       "volume": 1446621,
@@ -191,14 +191,14 @@
         "RSI_69.3"
       ],
       "stop": 684.4,
-      "cons_target": 794.59,
-      "agg_target": 847.56
+      "cons_target": 795.24,
+      "agg_target": 848.25
     },
     {
       "ticker": "QQQ",
-      "price": 741.41,
+      "price": 741.89,
       "prev_close": 738.21,
-      "chg_pct": 0.43,
+      "chg_pct": 0.5,
       "high": 745.62,
       "low": 736.07,
       "volume": 581718,
@@ -214,8 +214,8 @@
         "RSI_68.4"
       ],
       "stop": 636.2,
-      "cons_target": 778.48,
-      "agg_target": 830.38
+      "cons_target": 778.98,
+      "agg_target": 830.92
     },
     {
       "ticker": "PLTR",
@@ -469,9 +469,9 @@
     },
     {
       "ticker": "TSLA",
-      "price": 418.33,
+      "price": 418.41,
       "prev_close": 435.57,
-      "chg_pct": -3.96,
+      "chg_pct": -3.94,
       "high": 429.42,
       "low": 415.51,
       "volume": 621094,
@@ -483,11 +483,11 @@
       "signals": [
         "SMA50",
         "EMA_STACK",
-        "DOWN-3.96%"
+        "DOWN-3.94%"
       ],
-      "stop": 439.25,
-      "cons_target": 397.41,
-      "agg_target": 368.13
+      "stop": 439.33,
+      "cons_target": 397.49,
+      "agg_target": 368.2
     },
     {
       "ticker": "NFLX",
@@ -575,9 +575,9 @@
     },
     {
       "ticker": "GLD",
-      "price": 411.24,
+      "price": 415.43,
       "prev_close": 417.18,
-      "chg_pct": -1.42,
+      "chg_pct": -0.42,
       "high": 412.61,
       "low": 408.24,
       "volume": 96810,
@@ -587,18 +587,17 @@
       "sma50": 424.83,
       "direction": "BEARISH",
       "signals": [
-        "DOWN-1.42%",
         "LOW_LIQ"
       ],
-      "stop": 431.8,
-      "cons_target": 390.68,
-      "agg_target": 361.89
+      "stop": 436.2,
+      "cons_target": 394.66,
+      "agg_target": 365.58
     },
     {
       "ticker": "SOXS",
-      "price": 5.82,
+      "price": 5.81,
       "prev_close": 6.33,
-      "chg_pct": -8.06,
+      "chg_pct": -8.21,
       "high": 6.74,
       "low": 6.05,
       "volume": 8935029,
@@ -608,11 +607,11 @@
       "sma50": 19.45,
       "direction": "BEARISH",
       "signals": [
-        "DOWN-8.06%"
+        "DOWN-8.21%"
       ],
-      "stop": 6.11,
-      "cons_target": 5.53,
-      "agg_target": 5.12
+      "stop": 6.1,
+      "cons_target": 5.52,
+      "agg_target": 5.11
     }
   ]
 }
