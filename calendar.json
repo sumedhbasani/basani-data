@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-02T11:30:01.720015+00:00",
+  "generated": "2026-06-03T08:50:30.518609+00:00",
   "events": [
     {
       "type": "earnings",
@@ -130,226 +130,6 @@
       "importance": 5,
       "source": "unusual_whales",
       "color": "#c0392b"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "YSWY",
-      "name": "YESWAY INC",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "GMRS",
-      "name": "GMR SOLUTIONS INC",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "DG",
-      "name": "DOLLAR GENERAL",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "TIGR",
-      "name": "UP FINTECH HOLDING",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "DCI",
-      "name": "DONALDSON CO",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "VSCO",
-      "name": "VICTORIA'S SECRET &",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "SIG",
-      "name": "SIGNET JEWELERS",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "BWLP",
-      "name": "BW LPG LTD",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "MOMO",
-      "name": "HELLO GROUP",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "ODD",
-      "name": "ODDITY TECH",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "CTRN",
-      "name": "CITI TRENDS",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "GOTU",
-      "name": "GAOTU TECHEDU",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "RMCF",
-      "name": "ROCKY MOUNTAIN CHOCOLATE FACTORY",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "PANW",
-      "name": "PALO ALTO NETWORKS",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "ULTA",
-      "name": "ULTA BEAUTY",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "GTLB",
-      "name": "GITLAB",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "YEXT",
-      "name": "YEXT",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "PICS",
-      "name": "PICPAY HOLDINGS NETHERLANDS BV",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "SPWH",
-      "name": "SPORTSMAN'S WAREHOUSE HOLDINGS",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-02",
-      "ticker": "PETS",
-      "name": "PETMED EXPRESS",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
     },
     {
       "type": "economic",
@@ -920,8 +700,8 @@
     {
       "type": "earnings",
       "date": "2026-06-04",
-      "ticker": "ZUMZ",
-      "name": "ZUMIEZ",
+      "ticker": "BBCP",
+      "name": "CONCRETE PUMPING HOLDINGS",
       "time": "after-market",
       "eps_est": "",
       "rev_est": "",
@@ -931,8 +711,8 @@
     {
       "type": "earnings",
       "date": "2026-06-04",
-      "ticker": "BBCP",
-      "name": "CONCRETE PUMPING HOLDINGS",
+      "ticker": "ZUMZ",
+      "name": "ZUMIEZ",
       "time": "after-market",
       "eps_est": "",
       "rev_est": "",
@@ -1005,6 +785,17 @@
       "date": "2026-06-05",
       "ticker": "GIII",
       "name": "G III APPAREL GROUP",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-05",
+      "ticker": "GASS",
+      "name": "STEALTHGAS",
       "time": "pre-market",
       "eps_est": "",
       "rev_est": "",
@@ -1241,8 +1032,8 @@
     {
       "type": "earnings",
       "date": "2026-06-09",
-      "ticker": "SJM",
-      "name": "J M SMUCKER",
+      "ticker": "SAIL",
+      "name": "SailPoint, Inc.",
       "time": "pre-market",
       "eps_est": "",
       "rev_est": "",
@@ -1252,8 +1043,8 @@
     {
       "type": "earnings",
       "date": "2026-06-09",
-      "ticker": "SAIL",
-      "name": "SailPoint, Inc.",
+      "ticker": "SJM",
+      "name": "J M SMUCKER",
       "time": "pre-market",
       "eps_est": "",
       "rev_est": "",
@@ -1307,6 +1098,17 @@
     {
       "type": "earnings",
       "date": "2026-06-09",
+      "ticker": "DBI",
+      "name": "DESIGNER BRANDS",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-09",
       "ticker": "LE",
       "name": "LANDS' END",
       "time": "pre-market",
@@ -1318,8 +1120,8 @@
     {
       "type": "earnings",
       "date": "2026-06-09",
-      "ticker": "DBI",
-      "name": "DESIGNER BRANDS",
+      "ticker": "THCH",
+      "name": "TH INTERNATIONAL",
       "time": "pre-market",
       "eps_est": "",
       "rev_est": "",
@@ -1506,8 +1308,30 @@
     {
       "type": "earnings",
       "date": "2026-06-10",
+      "ticker": "ORCL",
+      "name": "ORACLE",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
       "ticker": "NAVN",
       "name": "Navan",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
+      "ticker": "ATEX",
+      "name": "ANTERIX",
       "time": "after-market",
       "eps_est": "",
       "rev_est": "",
@@ -1706,6 +1530,17 @@
       "color": "#1a6bcc"
     },
     {
+      "type": "earnings",
+      "date": "2026-06-11",
+      "ticker": "ZDGE",
+      "name": "ZEDGE",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
       "type": "economic",
       "date": "2026-06-11",
       "time": "12:30",
@@ -1818,6 +1653,17 @@
     {
       "type": "earnings",
       "date": "2026-06-15",
+      "ticker": "AIOT",
+      "name": "PowerFleet",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-15",
       "ticker": "CGC",
       "name": "CANOPY GROWTH",
       "time": "pre-market",
@@ -1850,6 +1696,17 @@
     },
     {
       "type": "earnings",
+      "date": "2026-06-15",
+      "ticker": "RFIL",
+      "name": "R F INDUSTRIES",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
       "date": "2026-06-16",
       "ticker": "WLYB",
       "name": "JOHN WILEY & SONS",
@@ -1864,6 +1721,17 @@
       "date": "2026-06-16",
       "ticker": "WLY",
       "name": "JOHN WILEY & SONS",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-17",
+      "ticker": "KMX",
+      "name": "CARMAX",
       "time": "pre-market",
       "eps_est": "",
       "rev_est": "",
