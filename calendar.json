@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T11:30:01.629123+00:00",
+  "generated": "2026-06-05T07:04:11.396473+00:00",
   "events": [
     {
       "type": "earnings",
@@ -256,248 +256,6 @@
       "importance": 4,
       "source": "unusual_whales",
       "color": "#c0392b"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "CIEN",
-      "name": "CIENA",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "BF.A",
-      "name": "BROWN FORMAN",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "BF.B",
-      "name": "BROWN FORMAN",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "TTC",
-      "name": "TORO",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "XE",
-      "name": "X-Energy",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "CAL",
-      "name": "CALERES",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "CMCO",
-      "name": "COLUMBUS MCKINNON",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "OESX",
-      "name": "ORION ENERGY SYSTEMS",
-      "time": "pre-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "LULU",
-      "name": "LULULEMON ATHLETICA",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "PL",
-      "name": "PLANET LABS PBC",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "IOT",
-      "name": "SAMSARA",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "GWRE",
-      "name": "GUIDEWIRE SOFTWARE",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "RBRK",
-      "name": "RUBRIK INC",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "COO",
-      "name": "COOPER COMPANIES",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "DOCU",
-      "name": "DOCUSIGN",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "AGX",
-      "name": "ARGAN",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "TTAN",
-      "name": "ServiceTitan",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "NX",
-      "name": "QUANEX BUILDING PRODUCTS",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "BBCP",
-      "name": "CONCRETE PUMPING HOLDINGS",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "ZUMZ",
-      "name": "ZUMIEZ",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "CURV",
-      "name": "TORRID HOLDINGS",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
-    },
-    {
-      "type": "earnings",
-      "date": "2026-06-04",
-      "ticker": "WLTH",
-      "name": "LIFEGOAL WEALTH BUILDER ETF",
-      "time": "after-market",
-      "eps_est": "",
-      "rev_est": "",
-      "source": "unusual_whales",
-      "color": "#1a6bcc"
     },
     {
       "type": "economic",
@@ -1077,6 +835,17 @@
     {
       "type": "earnings",
       "date": "2026-06-10",
+      "ticker": "YB",
+      "name": "YUANBAO INC",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-10",
       "ticker": "JILL",
       "name": "JJILL",
       "time": "pre-market",
@@ -1488,6 +1257,28 @@
     {
       "type": "earnings",
       "date": "2026-06-15",
+      "ticker": "PLAY",
+      "name": "DAVE & BUSTER'S ENTERTAINMENT",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-15",
+      "ticker": "HITI",
+      "name": "HIGH TIDE",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-15",
       "ticker": "RFIL",
       "name": "R F INDUSTRIES",
       "time": "after-market",
@@ -1543,9 +1334,31 @@
     {
       "type": "earnings",
       "date": "2026-06-17",
+      "ticker": "JBL",
+      "name": "JABIL",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-17",
       "ticker": "KMX",
       "name": "CARMAX",
       "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-17",
+      "ticker": "SWBI",
+      "name": "SMITH & WESSON BRANDS",
+      "time": "after-market",
       "eps_est": "",
       "rev_est": "",
       "source": "unusual_whales",
