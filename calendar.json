@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-06T17:02:08.504956+00:00",
+  "generated": "2026-06-06T18:45:45.018745+00:00",
   "events": [
     {
       "type": "earnings",
@@ -765,6 +765,17 @@
     {
       "type": "earnings",
       "date": "2026-06-11",
+      "ticker": "RH",
+      "name": "RH",
+      "time": "after-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-11",
       "ticker": "ZDGE",
       "name": "ZEDGE",
       "time": "after-market",
@@ -910,6 +921,17 @@
       "date": "2026-06-15",
       "ticker": "CODA",
       "name": "CODA OCTOPUS GROUP",
+      "time": "pre-market",
+      "eps_est": "",
+      "rev_est": "",
+      "source": "unusual_whales",
+      "color": "#1a6bcc"
+    },
+    {
+      "type": "earnings",
+      "date": "2026-06-15",
+      "ticker": "JRSH",
+      "name": "JERASH HOLDINGS (US)",
       "time": "pre-market",
       "eps_est": "",
       "rev_est": "",
